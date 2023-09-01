@@ -1,0 +1,3 @@
+brave: bold, courageous
+cat: feline, kitten, kitty, pussycat
+ferocious: aggressive, barbarous, cruel
